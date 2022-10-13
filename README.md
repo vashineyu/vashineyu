@@ -2,7 +2,7 @@
 
 ###  Publications
 Year | Conf/Journal | Title | Paper
---- | --- | --- | --- | ---
+--- | --- | --- | --- 
 2022 | America Journal of Pathology | Deep Learning e Based Nuclear Morphometry Reveals an Independent Prognostic Factor in Mantle Cell Lymphoma | [paper](https://doi.org/10.1016/j.ajpath.2022.08.006)
 2021 | Cancers | Machine Learning Based on Morphological Features Enables Classification of Primary Intestinal T-Cell Lymphomas | [paper](https://doi.org/10.3390/cancers13215463)
 2021 | Modern Pathology | Identification of nodal micrometastasis in colorectal cancer using deep learning on annotation-free whole-slide images | [paper](https://doi.org/10.1038/s41379-021-00838-2)
