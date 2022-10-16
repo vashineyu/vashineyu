@@ -14,9 +14,30 @@ Year | Conf/Journal | Title | Paper
 2019 | The International Conference for High Performance Computing | Training Deep Neural Networks Directly on Hundred-million-pixel Histopathology Images on a Large-scale GPU Cluster | [paper](https://sc19.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost144.html) 
 2019 | IEEE Transactions on Medical Imaging | A Multi-Organ Nucleus Segmentation Challenge | [paper](https://doi.org/10.1109/TMI.2019.2947628)
 
-### Talks
-Year | Conf | Topic |
+### Talks / Speeches
+Year | Conference / Location | Topic |
 --- | --- | ---
+2021 | Lecture Invivation - NTU-DBME5028 | Introduction to Transfer Learning and Self-Supervised Learning ([slide](https://www.slideshare.net/SeanYu15/ntu-dbme5028-week8-transfer-learning))
+2021 | Lecture Invitation - NTU-DBME5028 | Introduction to Machine Learning ([slide](https://www.slideshare.net/SeanYu15/ntu-dbme5028-week5-introduction-to-machine-learning))
+2021 | TSPM meeting | AI-powered Medical Imaging Analysis for Precision Medicine ([slide](https://www.slideshare.net/SeanYu15/aipowered-medical-imaging-analysis-for-precision-medicine))
+2020 | InfoSec | AI 賦能精準醫療影像分析
+2020 | Lecture Invitation - Quanta | Computer Vision - Theory and Hands-on
+2020 | IRB | Medical Imaging AI: Progress and Challenges
+2019 | Taiwan Clouding Computing Annual Meeting | 馭繁為簡 - 在 AI 雲上實現高效能弱監督式數位病理影像分析 ([slide](https://www.slideshare.net/SeanYu15/weakly-supervised-whole-slide-image-analysis-using-cloud-computing))
+2019 | 台灣人工智慧學校南區醫療班 | Pratical Aspect of Medical Imaging AI for Hospitals ([slide](https://www.slideshare.net/SeanYu15/practical-aspects-of-medical-image-ai-for-hospital-irb-course))
+2017 | 中央研究院 OpenHouse | AI & Machine Learning In Our Daily Life ([slide](https://www.slideshare.net/SeanYu15/ai-86031063))
+2017 | 台灣人工智慧年會 | Experinece of AI from two cross-domainers ([slide](https://www.slideshare.net/SeanYu15/ss-85811162))
+2017 | 台灣人工智慧年會工作坊 | R - Exploratory Data Analysis and Text Mining ([slide](https://www.slideshare.net/SeanYu15/r-85810879))
+2017 | 台灣人工智慧學校 - 經理人班實作課程 | Deep Learning Hands-on ([slide](https://www.slideshare.net/SeanYu15/baisc-deep-learning-handson))
+2017 | 台灣人工智慧學校 - 開幕短講 | Machine Learning in Data Insight Lab ([slide](https://www.slideshare.net/SeanYu15/taiwan-ai-academy-machine-learning-and-deep-learning-application-examples))
+
+
+
+
+
+![Wei-Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashineyu&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vashineyu)
+
 
 <!---
 vashineyu/vashineyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
